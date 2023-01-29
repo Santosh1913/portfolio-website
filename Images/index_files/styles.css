@@ -1,0 +1,102 @@
+body {
+    background-color:white;
+    margin: 0px;
+    font-family: "Merriweather", sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+.top-box {
+    background-color:#d9f7f7;
+    margin: 0px;
+    position:relative;
+}
+.top-h1 {
+    font-weight: bold;
+    position: absolute;
+    font-family: "Sacramento", sans-serif;
+    top: 0%;
+    left: 35%;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin: 1%;
+}
+.top-h2 {
+    font-weight: normal;
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    top: 13%;
+    left: 36%;
+    font-size: 2rem;
+    color: #66BFBF;
+}
+
+.mountain {
+    width: 100%;
+}
+.cloud {
+    width: 35%;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+
+.cloud2 {
+    width:25%;
+    position: absolute;
+    top: 0%;
+}
+
+.middle-box {
+    margin:50px;
+    margin-bottom: 0px;
+}
+.middle-h3 {
+    color: #11999E;
+}
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 5% auto 10% auto;
+}
+
+.circuit-img {
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+}
+
+.programming-img {
+    margin-left: 30px;
+    width: 25%;
+    float: right;
+}
+
+.sql-img {
+    margin-right: 10px;
+    width: 50%;
+    float: left;
+}
+
+.bottom-box {
+    text-align: center;
+    margin-bottom: 0%;
+    background-color: #3ac1c1;
+    margin-top: 50px;
+}
+
+.bottom-h3 {
+    color: black;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    text-align: center;
+    width: 10%;
+    border-width: 10px;
+    color:grey;
+}
+
+.copyright {
+    color: white;
+}
